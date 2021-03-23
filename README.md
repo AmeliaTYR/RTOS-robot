@@ -11,6 +11,6 @@ Features
 
 ## Mobile application
 
-![pin_layount](images/pin layout.png)
+![pin layout](images/pin_layout.png)
 
 ![Mobile application UI](images/remoteApp.png)
