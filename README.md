@@ -9,8 +9,10 @@ Features
 * Multi-threading 
 * A mobile application to control the robot remotely
 
-## Mobile application
+## Hardware
 
 ![pin layout](images/pin_layout.png)
+
+## Mobile application
 
 ![Mobile application UI](images/remoteApp.png)
